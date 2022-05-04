@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juracucumber1
-- 🌱 I’m currently learning **Frontend.**
+- 🌱 I’m currently Beginer
 - 📫 How to reach me: **Telegram @useridi111**
 
 <!---
