@@ -1,8 +1,7 @@
-- <h1>Hi 👋, I'm Jura</h1>
-- <h1>🌱 I’m currently Beginer<h1>
-- <h1>📫 How to reach me: **Telegram @userid111**<h1>
+- <h3>Hi 👋, I'm Jura</h3>
+- <h3>🌱 I’m currently Beginer<h3>
+- <h3>📫 How to reach me: **Telegram @userid111**<h3>
 <hr>
-
 <h1>My stack:</h1>
 
 <h3>1.-</h3>
