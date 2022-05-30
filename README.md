@@ -1,6 +1,6 @@
 - <h3>Hi 👋, I'm Jura</h3>
 - <h3>🌱 I’m currently Beginer<h3>
-- <h3>📫 How to reach me: **Telegram @userid111**<h3>
+- <h3>📫 How to reach me: Telegram: @userid111<h3>
 <hr>
 <h1>My stack:</h1>
 
