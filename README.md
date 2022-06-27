@@ -5,10 +5,6 @@
 <h1>My stack:</h1>
 
 <h3>1. HTML</h3>
-<h3>2.-</h3>
-<h3>3.-</h3>
-<h3>4.-</h3>
-<h3>5.-</h3>
 
 <!---
 juracucumber1/juracucumber1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
